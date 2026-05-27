@@ -1,3 +1,3 @@
 :HL["/move-out-sale/_next/static/chunks/11unif--rw5h8.css","style"]
 :HL["/move-out-sale/_next/static/chunks/13brn6mdfife-.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"zrbuQhF_-rpO9POMHsxKu"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Le0ieI5Hh4hgO9v4F7vlM"}
